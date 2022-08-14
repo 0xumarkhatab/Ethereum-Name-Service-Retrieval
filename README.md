@@ -5,3 +5,5 @@
     Kindly login with Goerli tesnet.
     
     Header over to https://app.ens.domains/ for obtaining ENS domain for your account.
+
+![illustration](./ens.PNG "Project illustration")
